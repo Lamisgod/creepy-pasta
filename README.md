@@ -1,2 +1,4 @@
 # creepy-pasta
-rat dep trai
+Rat dep trai
+Dung vay!
+Anh ay rat dep trai.
